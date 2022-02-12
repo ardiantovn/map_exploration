@@ -1,5 +1,3 @@
-This repo contains a collection of map data exploration notebooks.
-
 Table of Contents:
 
 1. [BBox Map](https://github.com/ardiantovn/map_exploration/blob/main/Bbox_Map.ipynb)
